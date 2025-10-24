@@ -1,0 +1,16 @@
+# System / OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Logs
+*.log
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Build output (optional, if you ever add one)
+dist/
+out/
+build/
